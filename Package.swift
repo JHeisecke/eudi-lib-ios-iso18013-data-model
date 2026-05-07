@@ -14,7 +14,7 @@ let package = Package(
             targets: ["MdocDataModel18013"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/niscy-eudiw/SwiftCBOR.git", from: "0.6.4"),
+        .package(url: "https://github.com/JHeisecke/SwiftCBOR.git", branch: "main"),
         .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.1"),
         .package(url: "https://github.com/JHeisecke/swift-log.git", branch: "fix/swift-6.2-library-evolution-inlinable"),
         .package(url: "https://github.com/JHeisecke/swift-collections.git", branch: "main"),
