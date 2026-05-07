@@ -2,6 +2,7 @@
 //  DocClaimsModel.swift
 
 import Foundation
+import Combine
 
 /// SAFETY INVARIANT (@unchecked Sendable):
 /// This class is marked @unchecked Sendable because it contains a mutable property (credentialsUsageCounts)
