@@ -1,5 +1,5 @@
 {
-  "originHash" : "70676fe396b594793d075c96527cee8e9b60cc555b11c24ade61f7bc5d86c8a3",
+  "originHash" : "dc03864a2a2e27948eef8f14f5276aea4e894b3d889eae9f3d6aa84278305861",
   "pins" : [
     {
       "identity" : "swift-collections",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/JHeisecke/swift-collections.git",
       "state" : {
         "branch" : "main",
-        "revision" : "584ae2b3c52c55e529cf12efce7c5c9927289039"
+        "revision" : "53eabd584381ca5bf83adae39c15169d27bd844b"
       }
     },
     {
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/JHeisecke/SwiftCBOR.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "a663e7a6bd50d2224223ed60622b531b18499dd0"
+        "branch" : "master",
+        "revision" : "524c2b1d5db8daf3b5a2cfcd838dbe24a4b07757"
       }
     },
     {
