@@ -1,5 +1,5 @@
 {
-  "originHash" : "34a85f35ad8be12e1a1212dc2407b49b87749a8e69ecbbdade838fe310db0247",
+  "originHash" : "e7f2d6c55ee4c48f6edc3858685eebcde19d8abcc291e2e1c6603b80fdefd386",
   "pins" : [
     {
       "identity" : "swift-collections",
@@ -13,10 +13,10 @@
     {
       "identity" : "swift-log",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-log.git",
+      "location" : "https://github.com/JHeisecke/swift-log.git",
       "state" : {
-        "revision" : "bbd81b6725ae874c69e9b8c8804d462356b55523",
-        "version" : "1.10.1"
+        "branch" : "fix/swift-6.2-library-evolution-inlinable",
+        "revision" : "0ed72548f95245a88307265393891c341f04ca02"
       }
     },
     {
