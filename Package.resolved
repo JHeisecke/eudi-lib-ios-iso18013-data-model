@@ -1,5 +1,5 @@
 {
-  "originHash" : "dc03864a2a2e27948eef8f14f5276aea4e894b3d889eae9f3d6aa84278305861",
+  "originHash" : "0b203ea50324e7647633e982b904332a104e85c3e479ffa131691c3cd397bf65",
   "pins" : [
     {
       "identity" : "swift-collections",
@@ -40,10 +40,10 @@
     {
       "identity" : "swiftcopyablemacro",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/eu-digital-identity-wallet/SwiftCopyableMacro.git",
+      "location" : "https://github.com/JHeisecke/SwiftCopyableMacro.git",
       "state" : {
-        "revision" : "d535b0836be52c846d87605adad1205445e4dc35",
-        "version" : "0.0.4"
+        "branch" : "main",
+        "revision" : "24e1e862d770053b682652fc47fb42893a3fbc3f"
       }
     },
     {
